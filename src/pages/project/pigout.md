@@ -1,14 +1,15 @@
 ---
 layout: ../../layouts/project.astro
-title: Mars Rover
+title: Pig Out
 client: Self
-publishDate: 2020-03-02 00:00:00
-img: https://images.unsplash.com/photo-1547234935-80c7145ec969?fit=crop&w=1400&h=700&q=75
+publishDate: 2022-02-01
+img: https://www.pig-out.app/wp-content/uploads/2023/01/Pig-Out-Logo-4-freigestellt-e1673879894473-768x768.png
+website: https://pig-out.app
 description: |
-  We built an unofficial Mars Rover Landing site in celebration of NASA’s Perseverance Rover.
+  A Restaurant Review - Social Media Network to share your thoughts about food directly with your friends.
 tags:
-  - design
-  - dev
+  - programming
+  - app
   - branding
 ---
 
