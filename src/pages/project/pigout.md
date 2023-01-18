@@ -4,21 +4,30 @@ title: Pig Out
 client: Self
 publishDate: 2022-02-01
 img: https://www.pig-out.app/wp-content/uploads/2023/01/Pig-Out-Logo-4-freigestellt-e1673879894473-768x768.png
-website: https://pig-out.app
+website: /project/pigout
 description: |
   A Restaurant Review - Social Media Network to share your thoughts about food directly with your friends.
 tags:
-  - programming
-  - app
-  - branding
+  - Ionic
+  - APP Development
+  - Firebase
 ---
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+# Restaurant Review Social Media APP
+**Pig Out** is a social media network based on restaurant reviews of your friends.
+Based on the users you are following the APP creates a Top 10 List of the best reviewed restaurants.
+You are also able to see all reviews in your feed and also be able to create reviews yourself.  
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
+<b><a href="https://pig-out.app" target="_blank">GO TO PIG-OUT.APP</a></b>
+## Technologies used
+The frontend of this application is made using the IONIC Framework together with ANGULAR using Typescript.  
+Services from FIREBASE are used as a Backend. The services include:
+- **FIRESTORE** for storing data
+- **HOSTING** for hosting the PWA
+- **CLOUD STORAGE** for saving images
+- **CLOUD FUNCTIONS** to run backend code
+- **AUTHENTICATION** for register and login
 
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
-
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
-
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+Other 3rd party services used:
+- **ALGOLIA** for search
+- **SENTRY** for logging

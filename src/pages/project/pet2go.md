@@ -2,23 +2,25 @@
 layout: ../../layouts/project.astro
 title: Pet 2 Go
 client: FH Campus Wien
-publishDate: 2018-11-01
+publishDate: 2019-03-01
 img: https://image.geo.de/30118034/t/m-/v3/w1440/r1.7778/-/haustiere-c-9782243-jpg--66182-.jpg
 website: /project/pet2go
 description: |
-  A Pet Sharing App
+  A Pet Sharing App - made for the Web Technologies Class at FH Campus Wien.
 tags:
-  - programming
-  - app
-  - branding
+  - HTML/CSS
+  - Google Maps
+  - Javascript
+  - FH Project
 ---
 
-Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
+**Pet2Go** is a Google Maps based website to show available pets that need to be walked or taken care of. Users are split in Owners who own a Pet and Walkers who are wanting to watch and pet Pets.  
+This project was part of the Web Technologies Class at FH Campus Wien in my 2nd Semester of Computer Science and Digital Communication.
 
-Smelly cheese stinking bishop roquefort. Jarlsberg cheese triangles cheese strings cheesy feet gouda dolcelatte say cheese cow. Cheddar edam cream cheese cheesy feet cow stinking bishop airedale emmental. Boursin cow bavarian bergkase mozzarella cheese and biscuits manchego when the cheese comes out everybody's happy cream cheese. Cheese on toast st. agur blue cheese croque monsieur halloumi.
-
-Fromage frais jarlsberg st. agur blue cheese. Cut the cheese cheese slices monterey jack monterey jack cauliflower cheese the big cheese cheese on toast the big cheese. Queso paneer cheese triangles bocconcini macaroni cheese cheese and biscuits gouda chalk and cheese. Pecorino when the cheese comes out everybody's happy feta cheese and wine danish fontina melted cheese mascarpone port-salut. When the cheese comes out everybody's happy pecorino cottage cheese.
-
-Caerphilly parmesan manchego. Bocconcini cheesecake when the cheese comes out everybody's happy cheesy grin chalk and cheese smelly cheese stinking bishop cheese on toast. Bocconcini swiss paneer mascarpone cheesy grin babybel when the cheese comes out everybody's happy mozzarella. Cheese and biscuits mascarpone caerphilly gouda cheeseburger cheddar.
-
-Cheese and biscuits cheesy grin roquefort. Ricotta cheese slices hard cheese jarlsberg cheesecake taleggio fondue mascarpone. Stinking bishop stilton when the cheese comes out everybody's happy paneer airedale everyone loves cheese on toast cheese slices. Ricotta cut the cheese cheese triangles babybel cream cheese ricotta.
+Technologies used:
+- **HTML5** for the frontend
+- **CSS3** for the frontend
+- **Javascript** for frontend functions
+- **Google Maps API** for map display
+- **MariaDB** as a Database
+- **Propel ORM** for DB mapping
