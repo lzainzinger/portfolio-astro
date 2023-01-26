@@ -3,7 +3,7 @@ layout: ../../layouts/project.astro
 title: PORTFOLIO Website
 client: Self
 publishDate: 2023-01-16
-img: https://www.bettercloud.com/wp-content/uploads/2021/07/it-guy-ftr-2.png
+img: /assets/portfolio.jpg
 website: /project/portfolio
 description: |
   My personal portfolio website.
